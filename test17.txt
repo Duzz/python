@@ -1,0 +1,3 @@
+Hello World!
+You are learning Python the hardway.
+You should have finished your degree a long time ago.
